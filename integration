@@ -2125,7 +2125,7 @@
   "myTselection/EVChargingStations",
   "myTselection/MyEnergy",
   "myTselection/pixometer",
-  "myTselection/smartschool_ha",
+  "myTselectionPublic/smartschool_ha",
   "myTselectionPublic/telenet_telemeter",
   "n-IA-hane/esphome-intercom",
   "N0ciple/hass-kef-connector",
