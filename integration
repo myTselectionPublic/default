@@ -2123,7 +2123,7 @@
   "myTselection/CityParking",
   "myTselection/delhaize_ha",
   "myTselection/EVChargingStations",
-  "myTselection/MyEnergy",
+  "myTselectionPublic/MyEnergy",
   "myTselection/pixometer",
   "myTselection/smartschool_ha",
   "myTselection/telenet_telemeter",
